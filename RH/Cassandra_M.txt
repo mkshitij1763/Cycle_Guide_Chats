@@ -1,0 +1,255 @@
+################################################################################
+THREAD: Cassandra M
+TOTAL MESSAGES: 35
+################################################################################
+
+--- TUESDAY, 10 FEBRUARY 2026 ---
+
+[07:50 pm] Coach:
+    Hey Cassandra🌼
+    
+    I’m Stacie and I’m your Cycle Guide here at Inito. I also have Cherie here with me in the group, who will be able to help you out when I’m not available. We’re here to support you as you navigate your Inito results and help answer any questions that come up along the way.
+    
+    I’d love to hear a little about you as well!
+----------------------------------------
+
+--- WEDNESDAY, 11 FEBRUARY 2026 ---
+
+[05:57 am] Cassandra M:
+    Hi Stacie and Cherie! Thank you for reaching out! I’m excited to be part of this test program!
+    
+    I believe you have access into my Inito account? I’ve been using it for a month - happy to answer any specific questions you have for me that would be helpful! 
+    
+    I’d love to better understand your relationship with Inito. Do you both work for the company? And could you share a bit about your credentials or experience with the product?
+----------------------------------------
+
+[11:03 am] Coach:
+    Hi Cassandra, we’re really glad to have you in the program 😊
+    Yes, we work with Inito. We’re trained 'Cycle Guides' here to help you understand your hormone patterns and cycle charts. We’re not doctors; however, we’ve been trained on Inito’s science and tools to offer helpful, research-backed support. For anything medical, it’s always best to consult with your doctor or fertility specialist.
+----------------------------------------
+
+[11:03 am] Coach:
+    While I’m not personally TTC and haven’t used Inito for the same, I do use the product regularly for hormone tracking and get consistent fertility ratings every cycle, so I’m very familiar with how the data and patterns show up over time.
+    I’m happy to answer questions, look at trends, and help you get the most insight from your charts
+----------------------------------------
+
+[11:04 am] Coach:
+    Also, I wanted to quickly share what you can expect from this program:
+    
+    You’re welcome to reach out anytime you have questions about your chart or fertility ratings.
+    
+    When you do, I’ll respond with clear explanations to help you understand what’s going on in your cycle.  
+    
+    I’ll get back to you as soon as I can (usually within 12 hours, though I appreciate your patience if it takes that long!)
+----------------------------------------
+
+[11:05 am] Coach:
+    I wanted to share a few more notes about the program: 
+    
+    I’m not a medical professional, so I can’t offer medical or lifestyle advice, but I am here to help you understand your chart and make your journey a little easier! 
+    
+    All of our conversations will take place right here in this private group on the Signal Messenger app. Just a heads-up: audio and video calls aren’t part of the program.
+    
+    If anything urgent or health-related comes up, please be sure to connect with your doctor or healthcare provider.
+    
+    Since this is a beta program, I would like to request you to keep our conversations private and not share them publicly or online.
+    
+    Feel free to take your time to read through the notes.
+----------------------------------------
+
+--- THURSDAY, 12 FEBRUARY 2026 ---
+
+[01:38 am] Cassandra M:
+    Hi stacie! 
+    
+    Thank you for all the insight! I’d love to hear what you all are hoping to gain from the beta program?
+----------------------------------------
+
+[10:51 am] Coach:
+    The objective is to simply break down your Inito results, provide a bit more insight into what you’re seeing, and share resources that might be helpful along the way.
+----------------------------------------
+
+--- WEDNESDAY, 18 FEBRUARY 2026 ---
+
+[09:39 pm] Cassandra M:
+    Great to know thank you
+    
+    I just took my 2ns test this cycle and I’m on day 8- it’s claiming peak fertility which has to be off ? My LH bumped from yesterday but not what it did my first cycle. Would love your take.
+----------------------------------------
+
+--- THURSDAY, 19 FEBRUARY 2026 ---
+
+[12:09 am] Coach:
+    Hey! Yes, this can happen sometimes. A shift from low fertility to peak fertility usually means your LH rose significantly from your baseline, which is why Inito marked it as Peak Fertility. Also, depending on when your body is ready to ovulate, you may experience another LH surge later if this first one didn’t trigger ovulation. Continuing to test will help confirm whether this LH rise is followed by a steady rise in PdG, as that’s what confirms ovulation.
+    Also, just a heads up, hormones can fluctuate, so ovulation doesn’t always happen on the same cycle day each month. Sometimes your body may prepare for ovulation a little earlier or take longer in some cycles. 
+    Each cycle your baseline and pattern can look a bit different as hormones are also influenced by lifestyle factors like diet, stress, and activity levels, so some variation is expected.
+----------------------------------------
+
+[12:09 am] Coach:
+    Also, here are a few blogs I think you might find helpful: 
+    https://blog.inito.com/lh-rise-vs-lh-surge-vs-peak-fertility/
+    
+    https://blog.inito.com/do-you-ovulate-the-same-day-every-month/
+----------------------------------------
+
+[10:08 pm] Cassandra M:
+    Curious your take on today’s read- it looks very different than my last cycle
+----------------------------------------
+
+[10:38 pm] Coach:
+    Hey Cassandra, looking at today’s reading, it’s definitely possible that your LH rise may have triggered ovulation a bit earlier this cycle. If ovulation has already occurred, the corpus luteum (which forms after the follicle releases the egg) can begin producing progesterone sooner, which would explain the PdG (urine metabolite of progesterone) rise you’re seeing. As I mentioned earlier, cycles can vary, and ovulation doesn’t always happen on the same day or follow the exact same pattern each month.
+    
+    That said, the only way to confirm ovulation is by seeing a steady and consistent rise in PdG over the next few days. Continuing to test over the coming days will give us more clarity on what your body is doing this cycle 💛
+    If you would like to know more, this blog might be helpful- https://blog.inito.com/early-ovulation/
+----------------------------------------
+
+--- WEDNESDAY, 25 FEBRUARY 2026 ---
+
+[12:37 am] Cassandra M:
+    Hi! Following up as my chart has swung back up for ovulation- curious your take. I feel like the thing I wish was in app was a short dive into what every line means? That’s why I end up putting it in chat GPT every morning
+----------------------------------------
+
+[10:16 am] Coach:
+    Hi Cassandra, looking at your pattern, the earlier LH rise wasn’t followed by a steady, consistent rise in PdG, which suggests ovulation likely wasn’t triggered at that point. Now, with LH rising again, it does look like your body may be making another attempt to ovulate.
+    
+    Your LH rose around CD 13 and has stayed elevated on CD 14 rather than dropping straight back to baseline. When LH remains elevated for more than one day, as it did in your case, this is called a plateau LH surge. About 14% of women experience this type of surge pattern. (Study: https://pubmed.ncbi.nlm.nih.gov/17434509/)
+    
+    At this stage, the key thing to watch is PdG over the next few days. If this LH rise did trigger ovulation, you should see PdG rise steadily and consistently, which is how Inito confirms ovulation.
+    
+    You’re also spot on about wanting more clarity on what each line means. Just so you know, you don’t have to run this through ChatGPT each morning 🙂 You can always reach out to me directly. I’m here to help break down what you’re seeing on your chart and help you understand your results in real time as your cycle unfolds. 💛
+----------------------------------------
+
+[10:21 am] Coach:
+    Also, If you're curious and would like to know more about LH surge patterns, this blog might be helpful- https://blog.inito.com/normal-lh-level/
+----------------------------------------
+
+[09:59 pm] Cassandra M:
+    Thank you Stacie would love your take on today’s reading - while is doing a steady little climb I am still waiting for the PDG to rise and curious your thoughts on if we’ve passed our window or if we should still try today. 
+    
+    Any other insights ( or what looks GOOD ) about this cycle is so appreciated!
+----------------------------------------
+
+--- THURSDAY, 26 FEBRUARY 2026 ---
+
+[01:07 am] Coach:
+    Hey, your LH has dropped back to baseline today, which likely means you're approaching the end of your fertile window. But since LH levels have stayed high for more than a day, today is still a good day to try. Your PdG (urine metabolite of progesterone) is on the rise, so continue testing. Inito will now be looking for a steady and consistent rise in your PdG levels over the next few days to confirm ovulation.
+    
+    This rise in PdG happens when the corpus luteum forms. The corpus luteum is what remains of the dominant follicle after it releases the mature egg during ovulation. It plays a crucial role by producing progesterone, which is released gradually to support the uterine lining. Keep testing as you have been, and I’m here if you have any questions. 
+    If you would like to know more, this blog might be helpful- https://blog.inito.com/progesterone-after-ovulation/
+----------------------------------------
+
+--- TUESDAY, 03 MARCH 2026 ---
+
+[05:58 am] Cassandra M:
+    Is it too early to feel implantation symptoms?
+----------------------------------------
+
+[08:05 am] Coach:
+    Hey Cassandra! You’re at 6 DPO and yes, around this time, some people’s bodies may begin preparing for implantation - though for others, it happens a little later (anywhere between 6–12 DPO).
+    
+    This is the window when the uterine lining becomes receptive. You might notice light spotting, cramps, or breast tenderness but it’s also just as normal to feel nothing at all. If you'd like to know more, this blog might be useful-
+    https://blog.inito.com/implantation/
+----------------------------------------
+
+[09:58 am] Cassandra M:
+    Super helpful thank you!
+----------------------------------------
+
+--- FRIDAY, 06 MARCH 2026 ---
+
+[09:03 pm] Cassandra M:
+    2 week wait is never fun lol im on 24 and woke up just curious to take an inito test- would love your take based on today’s readings of if I could be pregnant or if this is more likely the read of about to start bleed
+----------------------------------------
+
+[11:58 pm] Coach:
+    Hey Casandra,
+    
+    While I can definitely help you with insights up until ovulation is confirmed, I may not be able to offer much guidance beyond this stage. Inito is designed specifically for tracking ovulation and confirming ovulation. It cannot be used to confirm or track pregnancy. 
+    
+    I know this two-week wait can be such a mix of hope and stress, but you’ve got this! ✨💛 
+    Here’s a blog I thought you might find useful- https://blog.inito.com/the-two-week-wait/
+----------------------------------------
+
+--- SATURDAY, 07 MARCH 2026 ---
+
+[03:01 am] Cassandra M:
+    lol thank you- that is helpful. 
+    
+    What day DPO does Inito recommend testing for pregnancy?
+----------------------------------------
+
+[08:58 am] Coach:
+    Hey! You can usually take a pregnancy test at 14 DPO or on the first day after your missed period for the most accurate results. Taking it too early can lead to a false negative since your hCG levels might not be high enough yet.
+    
+    If you’d like a deeper understanding of how timing affects pregnancy test accuracy, you can read this blog:
+    
+    https://blog.inito.com/how-long-after-ovulation-can-you-take-a-pregnancy-test/
+----------------------------------------
+
+--- SUNDAY, 08 MARCH 2026 ---
+
+[10:19 am] Cassandra M:
+    Hey Stacie! Thank you so much- ironically I got my period about the same time this was sent over- onto the next cycle! 😅
+----------------------------------------
+
+--- MONDAY, 09 MARCH 2026 ---
+
+[08:26 am] Coach:
+    Hey, thank you for letting me know. Just a little reminder that every cycle is different, and one cycle doesn’t define the whole journey. If you have any questions about the new cycle, I’m here. 💛
+----------------------------------------
+
+--- THURSDAY, 12 MARCH 2026 ---
+
+[06:04 am] Cassandra M:
+    Hi! I still have one more day of my period tomorrow before it’s entirely gone - should I still take my first test tomorrow or wait until my period has entirely finished?
+----------------------------------------
+
+[10:40 am] Coach:
+    Hey, yes, you can test with Inito even when you are bleeding. 
+    Usually, Inito considers CD 6 to be your reference day. On this day, all your hormones are at your baseline levels. Inito uses these values as your baseline levels to then trigger your fertility results for the days to come. So it's important to test on this day to get accurate fertility results throughout your cycle.
+    However, it's important to ensure that menstrual blood does not contaminate the urine sample, as this could affect the accuracy of the test results. To prevent this, consider using a menstrual cup or a tampon during testing. This method helps collect urine without the interference of blood.
+----------------------------------------
+
+[07:05 pm] Cassandra M:
+    Fantastic! Thank you so much for the clarification!
+----------------------------------------
+
+--- TUESDAY, 17 MARCH 2026 ---
+
+[05:48 am] Cassandra M:
+    I’m coming off a bad cold which gave me a low grade fever - I logged in app and I’m wondering if you have any reading materials on how to best support your body post cold / sickness to prep for ovulation? Or is this cycle just a wash while my body recovers?
+----------------------------------------
+
+[06:08 pm] Coach:
+    Hey Cassandra! 😊
+    
+    We don’t have a specific blog on this, but here are few simple ways to support your body as you recover. Focus on getting adequate rest, staying well-hydrated, and eating balanced, whole foods, especially those rich in antioxidants, vitamin C, healthy fats, and protein. Gentle movement like light walks can also help as you ease back in.
+    
+    This cycle isn’t necessarily a wash. Your body may take a little time to recover from the illness, so your hormone trends may look different from previous cycles and that's okay. I’d recommend continuing to track so you can still observe how things progress this cycle. 💛
+----------------------------------------
+
+[08:39 pm] Cassandra M:
+    Thank you Stacie!
+----------------------------------------
+
+--- WEDNESDAY, 01 APRIL 2026 ---
+
+[10:09 pm] Cassandra M:
+    Hey Cassandra, we’d love to hear how your experience with the Cycle Support Program has been so far 💛
+    
+    Your feedback helps us make the program even more helpful for women on this journey. Your responses won’t be shared with your Cycle Guide, so feel free to be as honest as you like.
+    
+    You can share your thoughts here: https://form.typeform.com/to/TzlcOJIQ
+----------------------------------------
+
+--- THURSDAY, 16 APRIL 2026 ---
+
+[09:06 pm] Cassandra M:
+    Hey Cassandra! 
+    
+    Just a small reminder to fill out the feedback form when you get a moment. It will only take 3-4 minutes and would really help us improve the program.  
+    
+    Your thoughts truly matter to us, and we’d like to know how we can make this experience better for you and other women on this journey! ✨
+    
+    Here’s a link to the feedback form: https://form.typeform.com/to/TzlcOJIQ
+----------------------------------------
