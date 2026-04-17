@@ -1,0 +1,246 @@
+################################################################################
+THREAD: Nicolette S
+TOTAL MESSAGES: 26
+################################################################################
+
+--- SATURDAY, 07 FEBRUARY 2026 ---
+
+[11:32 pm] Coach:
+    Hey Nicolette 🌼
+    
+    Welcome to the Cycle Support Program!
+    
+    I’m your AI Cycle Guide Ava here at Inito to support you as you navigate your Inito results and help answer any questions that come up along the way.
+    
+    Feel free to introduce yourself if you’d like, or jump right in with a question anytime 😊
+----------------------------------------
+
+[11:32 pm] Coach:
+    Here’s a quick overview of how support works in this program:
+    
+    You’re welcome to reach out anytime you have questions about your chart or fertility ratings.
+    
+    As part of the program, I already have access to your charts, so that you don't have to trouble yourself.
+    
+    When you do, I’ll respond with clear explanations to help you understand what’s going on in your cycle.  
+    
+    Responses are AI-generated and designed to support learning and understanding.
+    
+    Since this is an experimental program and responses are also monitored by our team, replies may take some time, we appreciate your patience.
+----------------------------------------
+
+[11:32 pm] Coach:
+    A few important things to keep in mind:
+    
+    This program is for educational support only and doesn’t provide medical advice or diagnosis.
+    
+    All of our conversations will take place right here in this private group on the Signal Messenger app. Just a heads-up: audio and video calls aren’t part of the program.
+    
+    If anything urgent or health-related comes up, please be sure to connect with your doctor or healthcare provider.
+    
+    Since this is a beta program, I would like to request you to keep our conversations private and not share them publicly or online.
+    
+    While responses are AI-generated, the experience is closely monitored by the Inito team.
+    
+    Thank you for taking the time to read through the notes.
+----------------------------------------
+
+--- SUNDAY, 15 FEBRUARY 2026 ---
+
+[11:13 pm] Nicolette S:
+    My name is Nicolette. We have been trying to conceive since August 2025. We had a positive pregnancy test in Sept and a miscarriage in October.
+    
+    For my most recent charts, can you please explain how you know when I ovulated?
+----------------------------------------
+
+--- MONDAY, 16 FEBRUARY 2026 ---
+
+[12:37 am] Coach:
+    Hi Nicolette, thank you for sharing that. Sorry for your loss. Trying again after a loss takes a quiet kind of courage. I’m glad you’re looking closely at your charts and your body’s signals. Let’s walk through how ovulation is identified using your recent cycle.
+    
+    Inito confirms ovulation by tracking the natural hormone sequence your body follows.
+    
+    First, it detects a rise in Estrogen which marks the start of your fertile window. Then a surge in LH, which signals that ovulation may occur within the next 24–36 hours. 
+    
+    After ovulation, the follicle becomes the corpus luteum and produces progesterone. Progesterone is broken down into PdG, which appears in urine. Inito looks for a sustained rise in PdG after the LH surge to confirm that ovulation actually occurred.
+    
+    For ease of counting, Inito marks the day after your Peak Fertility as your Ovulation day, provided your PdG has risen steadily and consistently after the latest LH surge. 
+    
+    🌸 Related Inito resources
+    https://blog.inito.com/master-hormones-with-inito/
+----------------------------------------
+
+[12:37 am] Coach:
+    Based on your chart, CD 12 was identified as your Peak Fertility day because an LH surge was detected, which signals that ovulation is likely to occur within the next 24–36 hours.
+    
+    After this surge, your PdG levels began rising steadily from CD 13 onward. PdG is a urine marker of progesterone, which increases only after ovulation has occurred.
+    
+    You received an Ovulation Confirmed result on CD 17 because the PdG rise remained sustained for multiple days.
+    
+    Putting this sequence together:
+    • CD 12: LH surge (Peak Fertility)
+    • CD 13: Ovulation likely occurred
+    • CD 13 onward: PdG rise begins
+    • CD 17: Ovulation confirmed
+    
+    This hormone pattern indicates that ovulation most likely occurred around CD 13.
+----------------------------------------
+
+[03:42 am] Nicolette S:
+    What is EG3?
+----------------------------------------
+
+[12:30 pm] Coach:
+    Estrone-3-glucuronide (E3G) is a primary urinary metabolite of estradiol. It is used to track your fertile window. 
+    
+    🌸Related Inito resources 
+    https://blog.inito.com/estradiol-levels-chart/
+----------------------------------------
+
+--- TUESDAY, 17 FEBRUARY 2026 ---
+
+[10:10 pm] Nicolette S:
+    What is estradiol?
+----------------------------------------
+
+[11:23 pm] Coach:
+    Estradiol (E2) is one of three main estrogens:
+    • Estradiol (E2) → dominant during reproductive years
+    • Estrone (E1) → higher after menopause
+    • Estriol (E3) → rises during pregnancy
+----------------------------------------
+
+--- SUNDAY, 22 FEBRUARY 2026 ---
+
+[04:14 am] Nicolette S:
+    Does it help the app to add my BBT? From what I have entered, does it tell you anything?
+----------------------------------------
+
+[08:47 am] Coach:
+    Yes, adding your BBT can definitely help — but here’s how to think about it clearly.
+    
+    Inito predicts your fertile window and confirms ovulation primarily using E3G + LH + PdG + FSH patterns. That is your core hormonal proof.
+    BBT is more of a supporting actor, not the lead character.
+    
+    From the temperatures you’ve entered:
+    
+    • There does appear to be a rise after your LH surge
+    • The temps look higher in the second half compared to earlier days
+    • That pattern is consistent with progesterone influence
+    
+    BBT rises because progesterone increases your body’s resting temperature after ovulation. So if we see:
+    
+    👉🏻 An LH surge
+    👉🏻 Followed by a sustained temperature rise
+    👉🏻 And then a PdG rise
+    
+    That trio together is very reassuring 🌷
+    
+    However:
+    
+    BBT cannot predict ovulation. It only confirms it after it has happened.
+    And it can be affected by sleep, illness, late nights, alcohol, stress, or even a slightly different wake time.
+    
+    So does adding BBT help the app?
+    
+    Yes — it gives extra confirmation and makes your cycle pattern clearer over time.
+    No — it does not replace PdG for confirming ovulation.
+    
+    From what you’ve entered so far, your BBT pattern supports that ovulation likely occurred around your surge window. 
+    And PdG rise has already confirmed ovulation for you.
+    
+    There is nothing more that you can decipher from this.
+----------------------------------------
+
+[08:14 pm] Nicolette S:
+    Is PdG progesterone?
+----------------------------------------
+
+[08:17 pm] Coach:
+    https://blog.inito.com/pdg-test/
+    
+    https://blog.inito.com/progesterone-vs-pdg-test/
+----------------------------------------
+
+[08:18 pm] Nicolette S:
+    What is FSH?
+----------------------------------------
+
+[08:22 pm] Coach:
+    FSH is follicle stimulating hormone
+    
+    It stimulates the follicles to grow and mature to form the dominant follicle.
+----------------------------------------
+
+[08:23 pm] Coach:
+    https://blog.inito.com/fsh-hormone-function-abnormalities-ti/
+    
+    https://blog.inito.com/fsh-levels-normal-ranges/
+----------------------------------------
+
+[08:24 pm] Coach:
+    PdG is the urine metabolite of progesterone
+    
+    Progesterone is measured in blood whereas PdG is measured in urine.
+----------------------------------------
+
+--- THURSDAY, 26 FEBRUARY 2026 ---
+
+[06:41 pm] Nicolette S:
+    If I got a positive LH strip on day 11 of my cycle, how can I log that?
+----------------------------------------
+
+[06:42 pm] Nicolette S:
+    Inito said that my LH surge was day 10 but I got a positive LH strip the day after on day 11 too. Does that mean I ovulated probably day 12?
+----------------------------------------
+
+[10:26 pm] Coach:
+    As per your chart, you missed testing on CD 10 with Inito 
+    Your LH surge was on CD 12.
+    
+    Can you please confirm which cycle are you talking about?
+----------------------------------------
+
+--- TUESDAY, 10 MARCH 2026 ---
+
+[02:45 am] Nicolette S:
+    Why is my EG3 so much lower than it was when my LH peaked last cycle?
+----------------------------------------
+
+[03:02 am] Coach:
+    Estrogen is released in pulses and daily fluctuations are common. Estrogen is measured in urine by Inito and it
+    
+    👉🏻 varies with hydration and metabolism
+    👉🏻 reflects metabolized estrogen, not serum estrogen
+    👉🏻 fluctuates in every cycle
+    
+    Focus on the trends and not the values alone.
+----------------------------------------
+
+--- SATURDAY, 28 MARCH 2026 ---
+
+[06:06 am] Nicolette S:
+    If you’re spotting before your period is it the start of your period?
+----------------------------------------
+
+[08:31 am] Coach:
+    🌷 Spotting before your period doesn’t usually count as the start of your period
+    
+    🌼 Spotting is light bleeding (pink/brown, minimal, may not need a pad)
+    
+    🌺 Your period starts when you see a steady red flow that needs a pad/tampon
+    
+    🌻 Think of spotting as your body preparing, and full flow as Day 1
+    
+    🌸 For tracking, always mark Day 1 as the first day of full flow, not spotting
+----------------------------------------
+
+--- FRIDAY, 03 APRIL 2026 ---
+
+[01:57 am] Coach:
+    Hey Nicolette, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
+    
+    Your feedback helps make the program better for you and other women on this journey as well. 
+    
+    You can share your thoughts here: https://form.typeform.com/to/B5dkRbCL
+----------------------------------------

@@ -1,0 +1,166 @@
+################################################################################
+THREAD: Elena G
+TOTAL MESSAGES: 15
+################################################################################
+
+--- THURSDAY, 05 FEBRUARY 2026 ---
+
+[07:24 pm] Coach:
+    Hey Elena 🌼
+    
+    Welcome to the Cycle Support Program!
+    
+    I’m Ava, your AI Cycle Guide here at Inito to support you as you navigate your Inito results and help answer any questions that come up along the way.
+    
+    Feel free to introduce yourself if you’d like, or jump right in with a question anytime 😊
+----------------------------------------
+
+[07:24 pm] Coach:
+    Here’s a quick overview of how support works in this program:
+    
+    You’re welcome to reach out anytime you have questions about your chart or fertility ratings.
+    
+    When you do, I’ll respond with clear explanations to help you understand what’s going on in your cycle.  
+    
+    Responses are AI-generated and designed to support learning and understanding.
+    
+    Since this is an experimental program and responses are also monitored by our team, replies may take some time, we appreciate your patience.
+----------------------------------------
+
+[07:24 pm] Coach:
+    A few important things to keep in mind:
+    
+    This program is for educational support only and doesn’t provide medical advice or diagnosis.
+    
+    All of our conversations will take place right here in this private group on the Signal Messenger app. Just a heads-up: audio and video calls aren’t part of the program.
+    
+    If anything urgent or health-related comes up, please be sure to connect with your doctor or healthcare provider.
+    
+    Since this is a beta program, I would like to request you to keep our conversations private and not share them publicly or online.
+    
+    While responses are AI-generated, the experience is closely monitored by the Inito team.
+    
+    Thank you for taking the time to read through the notes.
+----------------------------------------
+
+[07:28 pm] Elena G:
+    Hi, I just wanted to get see if I can gain some clarity. This is our first cycle doing Iui - ( we did 3 months of leterzole 2.5 & trigger previously with my obgyn and now this month we are with a specialist). Clinic had me trigger on cycle day 8 11pm with a folice 18.5mm. The Iui was cycle day 10 at noon.
+----------------------------------------
+
+[07:28 pm] Elena G:
+    I want to know how my numbers look? Leterzole was taken cycle day 3-7.
+----------------------------------------
+
+[07:30 pm] Elena G:
+    This one is most up to date
+----------------------------------------
+
+[07:36 pm] Coach:
+    Thanks for sharing all of that — and totally get why you’d want clarity, especially in your first IUI cycle. I’ll walk through this calmly and realistically, based on what your chart shows and the meds/timing you described. 💛
+----------------------------------------
+
+[07:41 pm] Coach:
+    Big picture first
+    
+    Trigger on CD 8 with an 18.5 mm follicle → that’s very appropriate timing
+    
+    IUI on CD 10 (~36 hours later) → textbook window for a trigger-based IUI
+    
+    Inito shows ovulation confirmed with a PdG rise → this is exactly what we want to see post-IUI
+    
+    So from a timing and response standpoint, this cycle looks well-managed and well-timed.
+----------------------------------------
+
+[07:57 pm] Coach:
+    Since ovulation has already been confirmed this cycle, there isn’t any more insight that I can share right now. That said, here’s a summary of how this cycle unfolded.
+    
+    🌷 Cycle Summary
+    
+    Follicular Phase: 12 days
+    Luteal Phase: Ongoing (currently ~6 days)
+    Fertile Window: CD 8–13
+    Ovulation Confirmed: Yes
+    Ovulation Day: Around CD 13
+    
+    Here’s an overview of your cycle:
+    
+    🌼 Estrogen
+    Estrogen shows a clear rise leading into the fertile window, followed by a pullback around ovulation and a secondary wave after ovulation. This pattern reflects follicle growth early in the cycle and continued ovarian signaling after the egg was released.
+    
+    🌻 LH
+    LH builds gradually into a defined surge around the fertile window and then settles afterward. This timing aligns with ovulation signaling and supports the transition from follicle development to ovulation. LH has been high for a few days because of residual levels from the trigger shot.
+    
+    🌺 FSH
+    FSH remains relatively steady with a subtle lift around the fertile window. This suggests it supported follicle development early on and then stepped back once ovulation-related signals took over.
+    
+    🌸 PdG
+    PdG shows a clear rise after ovulation and remains elevated into the later days shown. This pattern confirms that ovulation occurred and reflects the ovary’s shift toward post-ovulatory support.
+    
+    🌸 Related Inito resources
+    https://blog.inito.com/what-your-hormone-chart-reveals-about-your-cycle/
+----------------------------------------
+
+[08:40 pm] Elena G:
+    So my first peak at day 9 was not from the trigger ? I didn’t ovulate on day 10 my Iui day? I am getting conflicting info that day 12 is not a true second peak that it’s from the shot? But then you’re saying I ovulated day 13. It’s very confusing especially since my Iui was timed
+----------------------------------------
+
+[08:55 pm] Coach:
+    I can see why this feels conflicting. Trigger cycles don’t follow the same hormone rules as natural cycles, so patterns can look confusing if they’re read the same way.
+    
+    For ease of calculation, Inito marks ovulation as the day after the latest LH peak when a PdG rise follows that surge. This is a standardized way of labeling data, not a claim about the exact biological moment ovulation occurred.
+    
+    In your case, you received a trigger shot on CD 8, which causes LH to rise and remain elevated for several days. Instead of a sharp, single surge, this creates a plateau-style LH pattern, making it difficult to pinpoint ovulation using LH alone.
+    
+    Biologically, ovulation typically occurs 24–36 hours after the LH surge (and about 8–20 hours after the LH peak). For IUI, clinics intentionally time the procedure 24–36 hours after the surge so sperm and egg overlap.
+    
+    Because this surge was trigger-induced, the LH rise seen on CD 9 is the true ovulatory signal, and that is what initiated ovulation. The later LH activity reflects lingering effects of the trigger shot rather than a second ovulation attempt.
+    
+    It’s also important to note that Inito hasn’t been clinically tested for use in medicated or trigger cycles, so we don’t yet have enough data to reliably interpret medication-driven hormone patterns the same way we do natural cycles. In these cases, Inito can show hormone trends, but clinical timing and outcomes are best guided by your care team.
+    
+    Your IUI was timed to the biologically relevant window — the chart just reflects how trigger cycles behave hormonally.
+    
+    If you’d like to dig deeper into timing after an LH surge, this blog explains it well:
+    https://blog.inito.com/when-to-inseminate-after-lh-surge/
+----------------------------------------
+
+[08:57 pm] Elena G:
+    So ovulation was day 10
+----------------------------------------
+
+[08:59 pm] Coach:
+    I get why you want a clear yes/no here — but with a triggered IUI cycle, the most accurate answer is a range, not a single calendar day.
+    
+    Based on how trigger shots work:
+    
+    The trigger on CD 8 caused the LH surge.
+    
+    Ovulation typically happens ~24–36 hours after that surge (sometimes up to ~40 hours).
+    
+    That places ovulation most likely between late CD 9 and CD 10, possibly early CD 11.
+    
+    So yes — ovulation most likely occurred around CD 10, which is exactly why your clinic timed the IUI on CD 10.
+    
+    The later “ovulation day” shown by Inito is a labeling convention, not a contradiction of your IUI timing. In trigger cycles, LH can stay elevated for days, and Inito isn’t designed to pinpoint ovulation timing in medicated cycles.
+    
+    Bottom line: your IUI was timed to the correct biological window, even if the chart labels ovulation a bit later.
+----------------------------------------
+
+--- FRIDAY, 03 APRIL 2026 ---
+
+[01:50 am] Coach:
+    Hey Elena, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
+    
+    Your feedback helps make the program better for you and other women on this journey as well. 
+    
+    You can share your thoughts here: https://form.typeform.com/to/B5dkRbCL
+----------------------------------------
+
+--- SUNDAY, 05 APRIL 2026 ---
+
+[02:14 am] Coach:
+    Hey Elena! 
+    
+    Just a small reminder to fill out the feedback form when you get a moment. It will only take 3-4 minutes and would really help us improve the program.  😊
+    
+    https://form.typeform.com/to/B5dkRbCL
+----------------------------------------

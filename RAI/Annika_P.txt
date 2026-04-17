@@ -5,7 +5,7 @@ TOTAL MESSAGES: 34
 
 --- FRIDAY, 06 MARCH 2026 ---
 
-[08:11 pm] Annika P:
+[08:11 pm] Coach:
     Hey Annika 🌼
     
     Welcome to the Cycle Support Program!
@@ -15,7 +15,7 @@ TOTAL MESSAGES: 34
     Feel free to introduce yourself if you’d like, or jump right in with a question anytime 😊
 ----------------------------------------
 
-[08:12 pm] Annika P:
+[08:12 pm] Coach:
     Here’s a quick overview of how support works in this program:
     
     You’re welcome to reach out anytime you have questions about your chart or fertility ratings.
@@ -29,7 +29,7 @@ TOTAL MESSAGES: 34
     Since this is an experimental program and responses are also monitored by our team, replies may take some time, we appreciate your patience.
 ----------------------------------------
 
-[08:12 pm] Annika P:
+[08:12 pm] Coach:
     A few important things to keep in mind:
     
     This program is for educational support only and doesn’t provide medical advice or diagnosis.
@@ -55,7 +55,7 @@ TOTAL MESSAGES: 34
 
 --- SATURDAY, 07 MARCH 2026 ---
 
-[12:07 am] Annika P:
+[12:07 am] Coach:
     Hi Annika
     
     • Progesterone is released in pulses.
@@ -81,13 +81,13 @@ TOTAL MESSAGES: 34
     Can you explain FSH and when it would start to rise to signal a period is coming
 ----------------------------------------
 
-[09:58 pm] Annika P:
+[09:58 pm] Coach:
     FSH is follicle stimulating hormone
     
     It stimulates the follicles to grow and mature to form the dominant follicle.
 ----------------------------------------
 
-[10:00 pm] Annika P:
+[10:00 pm] Coach:
     FSH rises at the start of your cycle stimulating the follicles to grow and mature into one dominant follicle.
     It rises around ovulation to select the dominant follicle.
     It rises in the luteal phase to boost the function of the corpus luteum.
@@ -97,7 +97,7 @@ TOTAL MESSAGES: 34
     FSH rise in the luteal phase does not necessarily mean a signal that period is coming.
 ----------------------------------------
 
-[10:00 pm] Annika P:
+[10:00 pm] Coach:
     🌸 Related Inito resources 
     
     https://blog.inito.com/fsh-hormone-function-abnormalities-ti/
@@ -105,7 +105,7 @@ TOTAL MESSAGES: 34
     https://blog.inito.com/fsh-levels-normal-ranges/
 ----------------------------------------
 
-[10:01 pm] Annika P:
+[10:01 pm] Coach:
     Know more about FSH behavior here
     
     https://blog.inito.com/what-your-hormone-chart-reveals-about-your-cycle/
@@ -117,7 +117,7 @@ TOTAL MESSAGES: 34
     Is there anything you see in my cycle that would explain my conceiving
 ----------------------------------------
 
-[08:05 am] Annika P:
+[08:05 am] Coach:
     Inito is meant for use to predict your fertile window and confirm ovulation.
     
     You had sex during your fertile window and your Peak Fertility day which marks the highest chances of conception. You also got an ovulation confirmation result. 
@@ -142,7 +142,7 @@ TOTAL MESSAGES: 34
 
 --- FRIDAY, 27 MARCH 2026 ---
 
-[01:17 pm] Annika P:
+[01:17 pm] Coach:
     This chart is doing something very human, not very “textbook” 🌿
     Let’s decode it calmly.
     
@@ -181,7 +181,7 @@ TOTAL MESSAGES: 34
     So could I miss ovulation all together
 ----------------------------------------
 
-[06:08 pm] Annika P:
+[06:08 pm] Coach:
     This is too early to say.
     Currently you are still in your fertile window where estrogen has started rising.
     Continue testing to track your LH surge that will trigger ovulation and a subsequent steady and consistent rise in PdG to confirm ovulation.
@@ -191,7 +191,7 @@ TOTAL MESSAGES: 34
     My e3g is back to baseline
 ----------------------------------------
 
-[06:10 pm] Annika P:
+[06:10 pm] Coach:
     Estrogen is released in pulses and daily fluctuations are common. Estrogen is measured in urine by Inito and it
     
     👉🏻 varies with hydration and metabolism
@@ -201,7 +201,7 @@ TOTAL MESSAGES: 34
     Focus on the trends and not the values alone.
 ----------------------------------------
 
-[06:10 pm] Annika P:
+[06:10 pm] Coach:
     Fluctuations are common and do not necessarily affect ovulation.
     Test daily as and when the app suggests to track your LH surge to mark Peak Fertility and then a subsequent steady and consistent rise in PdG to confirm ovulation.
 ----------------------------------------
@@ -212,7 +212,7 @@ TOTAL MESSAGES: 34
     How does my low estrogen with Lh surge affect my trying to conceive?
 ----------------------------------------
 
-[11:39 pm] Annika P:
+[11:39 pm] Coach:
     🌼 Even though your estrogen didn’t rise as high as the previous cycle, your LH surge still means your body likely moved toward ovulation.
     
     Estrogen is released in pulses and daily fluctuations are common. Estrogen is measured in urine by Inito and it
@@ -232,7 +232,7 @@ TOTAL MESSAGES: 34
     Did I ovulate?
 ----------------------------------------
 
-[01:45 am] Annika P:
+[01:45 am] Coach:
     Right now, it cannot be confirmed whether you ovulated or not. But your body did try to ovulate on CD 17.
     
     Inito looks for a steady and consistent rise in your PdG over a few days after your LH surge to confirm ovulation.
@@ -243,7 +243,7 @@ TOTAL MESSAGES: 34
     Continue testing to track the steady rise in PdG to confirm ovulation.
 ----------------------------------------
 
-[01:58 am] Annika P:
+[01:58 am] Coach:
     Hey Annika, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
     
     Your feedback helps make the program better for you and other women on this journey as well. 
@@ -257,7 +257,7 @@ TOTAL MESSAGES: 34
     At what point is the app just gonna say I didn’t ovulate
 ----------------------------------------
 
-[01:53 am] Annika P:
+[01:53 am] Coach:
     Inito looks for a steady consistent rise in PdG after your LH surge for up to 9 days. If there is no rise in PDG, Inito then gives you a result of Ovulation Unlikely.
 ----------------------------------------
 
@@ -267,7 +267,7 @@ TOTAL MESSAGES: 34
     I’m confused on what’s going on with my cycle
 ----------------------------------------
 
-[09:53 pm] Annika P:
+[09:53 pm] Coach:
     🌺 CD 32 Breakdown
     Cycle Day: CD 32
     Fertility Rating: Peak
@@ -292,7 +292,7 @@ TOTAL MESSAGES: 34
     So I could ovulate this cycle??
 ----------------------------------------
 
-[10:12 pm] Annika P:
+[10:12 pm] Coach:
     Yes 
     It is possible.
     Continue testing to track a steady rise in PdG to confirm ovulation.
@@ -310,7 +310,7 @@ TOTAL MESSAGES: 34
 
 --- THURSDAY, 16 APRIL 2026 ---
 
-[07:33 pm] Annika P:
+[07:33 pm] Coach:
     Estrogen is released in pulses and daily fluctuations are common. Estrogen is measured in urine by Inito and it
     
     👉🏻 varies with hydration and metabolism

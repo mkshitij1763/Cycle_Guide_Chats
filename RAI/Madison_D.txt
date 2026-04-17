@@ -1,12 +1,12 @@
 ################################################################################
-THREAD: Ivelisse V
-TOTAL MESSAGES: 5
+THREAD: Madison D
+TOTAL MESSAGES: 6
 ################################################################################
 
---- TUESDAY, 10 FEBRUARY 2026 ---
+--- MONDAY, 16 MARCH 2026 ---
 
-[12:19 pm] Coach:
-    Hey Ivelisse 🌼
+[07:51 am] Coach:
+    Hey Madison 🌼
     
     Welcome to the Cycle Support Program!
     
@@ -15,7 +15,7 @@ TOTAL MESSAGES: 5
     Feel free to introduce yourself if you’d like, or jump right in with a question anytime 😊
 ----------------------------------------
 
-[12:19 pm] Coach:
+[07:53 am] Coach:
     Here’s a quick overview of how support works in this program:
     
     You’re welcome to reach out anytime you have questions about your chart or fertility ratings.
@@ -29,7 +29,7 @@ TOTAL MESSAGES: 5
     Since this is an experimental program and responses are also monitored by our team, replies may take some time, we appreciate your patience.
 ----------------------------------------
 
-[12:19 pm] Coach:
+[07:53 am] Coach:
     A few important things to keep in mind:
     
     This program is for educational support only and doesn’t provide medical advice or diagnosis.
@@ -45,22 +45,28 @@ TOTAL MESSAGES: 5
     Thank you for taking the time to read through the notes.
 ----------------------------------------
 
---- FRIDAY, 03 APRIL 2026 ---
-
-[01:51 am] Coach:
-    Hey Ivelisse, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
-    
-    Your feedback helps make the program better for you and other women on this journey as well. 
-    
-    You can share your thoughts here: https://form.typeform.com/to/B5dkRbCL
+[04:05 pm] Madison D:
+    Hello! Can you explain a rough overview of my chart and numbers
 ----------------------------------------
 
---- SUNDAY, 05 APRIL 2026 ---
+[04:05 pm] Madison D:
+    Since this is my first cycle.
+----------------------------------------
 
-[02:19 am] Coach:
-    Hey Ivelisse! 
+--- FRIDAY, 20 MARCH 2026 ---
+
+[10:18 am] Coach:
+    Follicular Phase - 11 days
+    Luteal Phase - Ongoing
+    Fertile Window - CD 7 to CD 12
+    Ovulation Confirmed - CD 16
+    Ovulation Day - CD 12
     
-    Just a small reminder to fill out the feedback form when you get a moment. It will only take 3-4 minutes and would really help us improve the program.  😊
+    Estrogen: Your estrogen trended around baseline and hence you never saw your High Fertility days. However, based on your LH surge, your fertile window was from CD 7 to CD 12.
     
-    https://form.typeform.com/to/B5dkRbCL
+    LH: Your LH rose from baseline on CD 11 and continued to gradually rise on CD 12 and CD 13 before returning to baseline on CD 14. This was a gradual LH rise, which about 57.1% of women experience. (Study- https://www.sciencedirect.com/science/article/pii/S0015028207001604)
+    
+    FSH: FSH rose on CD 11 along with LH, which is typical for this phase of the cycle. FSH rises around ovulation to support LH and help select the dominant follicle.
+    
+    PdG: Ovulation was confirmed with a steady and consistent rise in PdG on CD 16.
 ----------------------------------------
