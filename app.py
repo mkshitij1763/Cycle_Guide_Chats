@@ -5,7 +5,7 @@ import re
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Inito Cycle Support Explorer", layout="wide")
 
-# --- CUSTOM CSS (Theme-Aware & Fixed Spacing) ---
+# --- CUSTOM CSS ---
 st.markdown("""
 <style>
 .stApp { 
@@ -40,7 +40,6 @@ st.markdown("""
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-/* Support Bubble (Purple) */
 .support-bubble {
     background: #6C63FF;
     color: #ffffff !important;
@@ -56,7 +55,6 @@ st.markdown("""
     text-transform: uppercase;
 }
 
-/* User Bubble (Adapts to Dark/Light) */
 .user-bubble {
     background-color: var(--secondary-background-color);
     border: 1px solid rgba(128, 128, 128, 0.2);
@@ -121,10 +119,8 @@ def render_chat_file(file_path):
     current_ts = None
     current_message = []
     
-    # Names that are officially support
-    SUPPORT_NAMES = ["Ava", "Coach"]
-    # Keywords that identify a message as being from the AI guide
-    SUPPORT_SIGNATURES = ["Ava", "Inito", "Cycle Guide", "blog.inito.com", "PdG", "Study -", "👉🏻", "👉🏼", "🌸", "Hi Annika"]
+    # Internal list of triggers to identify a "Support" message
+    SUPPORT_IDENTIFIERS = ["Ava", "Coach", "Guide", "Inito", "blog.inito.com", "PdG", "Study -", "👉🏻", "👉🏼", "🌸"]
 
     def flush_message():
         nonlocal current_sender, current_ts, current_message
@@ -132,22 +128,24 @@ def render_chat_file(file_path):
         if current_sender and current_message:
             msg_text = "<br>".join([l.strip() for l in current_message if l.strip()])
             
-            # 1. Check if name is explicitly support
-            is_support = any(name in current_sender for name in SUPPORT_NAMES)
+            # Identify if message is Support vs User
+            # 1. Check if the sender's name in the text file is Ava or Coach
+            is_support = any(name in current_sender for name in ["Ava", "Coach"])
             
-            # 2. HEURISTIC: If name is the user, but content looks like bot logic
-            # (e.g., it mentions "I'm Ava" or links to the Inito blog)
+            # 2. Heuristic: If name in text file is the user (like "Annika P"), 
+            # but the content contains Inito links/emojis/bot phrases
             if not is_support:
-                if "I’m your AI Cycle Guide Ava" in msg_text or "Inito" in msg_text or "blog.inito.com" in msg_text:
+                if any(trigger in msg_text for trigger in SUPPORT_IDENTIFIERS):
                     is_support = True
 
             bubble_class = "support-bubble" if is_support else "user-bubble"
             row_class = "support-row" if is_support else "user-row"
             
-            # Correct the label name if we detected it was actually Ava
-            display_name = current_sender.strip()
+            # Final Label Logic
             if is_support:
-                display_name = "✨ AVA"
+                display_name = "✨ COACH"
+            else:
+                display_name = current_sender.strip()
             
             html = f'''
             <div class="msg-row {row_class}">
@@ -164,11 +162,9 @@ def render_chat_file(file_path):
     for line in lines:
         clean_line = line.strip()
 
-        # Skip metadata
         if not clean_line or "TOTAL MESSAGES" in clean_line or "THREAD:" in clean_line or "###" in clean_line:
             continue
 
-        # Date separator
         if clean_line.startswith("---") and clean_line.endswith("---"):
             flush_message()
             date_label = clean_line.replace("-", "").strip()
@@ -176,7 +172,6 @@ def render_chat_file(file_path):
             current_sender = None
             continue
 
-        # Flexible Regex for [Time] Name:
         match = re.match(r"^\[(.*?)\]\s+(.*?):\s*$", clean_line)
 
         if match:
@@ -207,7 +202,6 @@ if users:
         format_func=lambda x: user_display[x]
     )
 
-    # Simple Header: RAI - Annika P
     st.markdown(f"## {selected_cohort} - {user_display[selected_user_file]}")
     st.divider()
     
