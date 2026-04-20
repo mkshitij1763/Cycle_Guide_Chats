@@ -118,35 +118,22 @@ def render_chat_file(file_path):
     current_sender = None
     current_ts = None
     current_message = []
-    
-    # Internal list of triggers to identify a "Support" message
-    SUPPORT_IDENTIFIERS = ["Ava", "Coach", "Guide", "Inito", "blog.inito.com", "PdG", "Study -", "👉🏻", "👉🏼", "🌸"]
 
     def flush_message():
         nonlocal current_sender, current_ts, current_message
 
         if current_sender and current_message:
             msg_text = "<br>".join([l.strip() for l in current_message if l.strip()])
-            
-            # Identify if message is Support vs User
-            # 1. Check if the sender's name in the text file is Ava or Coach
-            is_support = any(name in current_sender for name in ["Ava", "Coach"])
-            
-            # 2. Heuristic: If name in text file is the user (like "Annika P"), 
-            # but the content contains Inito links/emojis/bot phrases
-            if not is_support:
-                if any(trigger in msg_text for trigger in SUPPORT_IDENTIFIERS):
-                    is_support = True
+
+            # ✅ ONLY RULE: exact sender match
+            is_support = current_sender.strip() == "Coach"
 
             bubble_class = "support-bubble" if is_support else "user-bubble"
             row_class = "support-row" if is_support else "user-row"
-            
-            # Final Label Logic
-            if is_support:
-                display_name = "✨ COACH"
-            else:
-                display_name = current_sender.strip()
-            
+
+            # ✅ Always show COACH (not names)
+            display_name = "✨ COACH" if is_support else current_sender.strip()
+
             html = f'''
             <div class="msg-row {row_class}">
                 <div class="bubble {bubble_class}">
@@ -157,6 +144,7 @@ def render_chat_file(file_path):
             </div>
             '''
             st.markdown(html, unsafe_allow_html=True)
+
         current_message = []
 
     for line in lines:
