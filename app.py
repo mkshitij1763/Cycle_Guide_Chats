@@ -211,7 +211,7 @@ if users:
     admin_url = USER_ADMIN_LINKS.get(selected_cohort, {}).get(display_name)
     
     if admin_url:
-        st.markdown(f"#### 🔗 [View Admin Profile for {display_name}]({admin_url})")
+        st.markdown(f"## 🔗 [View Admin Profile for {display_name}]({admin_url})")
     else:
         st.markdown("#### 🔗 *Admin Link Not Available*")
 
