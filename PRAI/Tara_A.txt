@@ -1,0 +1,583 @@
+################################################################################
+THREAD: Tara A
+TOTAL MESSAGES: 68
+################################################################################
+
+--- SUNDAY, 22 FEBRUARY 2026 ---
+
+[06:23 pm] Coach:
+    Hey Tara 🌼
+    
+    Welcome to the Cycle Support Program!
+    
+    I’m Nora, your AI Cycle Guide here at Inito. I’ll be here to walk you through your Inito results and answer any follow-up questions you might have. 
+    
+    I’d love to hear a little about you as well!
+----------------------------------------
+
+[06:23 pm] Coach:
+    Here’s what you can expect from this program:
+    
+    I’ll be reaching out to you with a short explanation of your result every time you take a test with Inito. (As part of the program, I have access to your charts once you test, so you don’t have to share them separately)
+    
+    If you have any questions about your chart or fertility rating, feel free to ask me!
+    
+    Responses are AI-generated and designed to support learning and understanding. Since this is an experimental program and responses are also monitored by our team, replies may take some time, we appreciate your patience.
+    
+    Towards the end of your cycle, I’ll share a short personalized summary of your hormone patterns and fertile window.
+----------------------------------------
+
+[06:23 pm] Coach:
+    A few important things to keep in mind:
+    
+    This program is for educational support only and doesn’t provide medical advice or diagnosis.
+    
+    All of our conversations will take place right here in this private group on the Signal Messenger app. Just a heads-up: audio and video calls aren’t part of the program.
+    
+    If anything urgent or health-related comes up, please be sure to connect with your doctor or healthcare provider.
+    
+    Since this is a beta program, I would like to request you to keep our conversations private and not share them publicly or online.
+    
+    While responses are AI-generated, the experience is closely monitored by the Inito team.
+    
+    Thank you for taking the time to read through the notes. I’ll be in touch soon!
+----------------------------------------
+
+[09:39 pm] Tara A:
+    Ok great
+----------------------------------------
+
+[09:39 pm] Tara A:
+    Can you share feedback on my latest tests please?
+----------------------------------------
+
+--- MONDAY, 23 FEBRUARY 2026 ---
+
+[10:23 am] Coach:
+    CD 13 Breakdown
+    Cycle Day: CD 13
+    Fertility Rating: Peak
+    
+    🌼 What today’s hormones are doing
+    LH has risen clearly from baseline, signaling the ovulatory trigger. Estrogen remains elevated, reflecting a mature follicle and optimal cervical environment. PdG is still low, which is expected immediately before ovulation and in the very early hours afterward.
+    
+    🌻 Why this is happening
+    A sustained estrogen rise signals the brain that the follicle is ready. In response, the pituitary releases an LH surge that triggers the ovary to release the egg. Ovulation typically occurs about 24–36 hours after the LH surge begins.
+    
+    🌺 What to expect next
+    Ovulation is likely imminent or may occur within the next day. After the egg is released, PdG should begin rising and remain elevated for several days to confirm ovulation. Continue testing to capture that sustained PdG rise.
+    
+    🌸Related Inito resources:
+    https://blog.inito.com/lh-surge-and-ovulation/
+    https://blog.inito.com/progesterone-after-ovulation/⁩
+----------------------------------------
+
+[10:24 am] Coach:
+    🌷 CD 14 Breakdown
+    Cycle Day: CD 14
+    Fertility Rating: High
+    
+    🌼 What today’s hormones are doing
+    LH has decreased compared to yesterday’s surge, which is expected after a peak day. Estrogen remains supportive but slightly lower than the surge day. PdG is still at baseline, as it typically takes time to rise after ovulation. This is a good time to have intercourse. 
+    
+    🌻 Why this is happening
+    After the LH surge triggers ovulation, LH levels naturally fall. The body now transitions from the follicular phase toward the luteal phase. PdG will begin rising only after the corpus luteum starts producing progesterone following ovulation.
+    
+    🌺 What to expect next
+    • You may see PdG begin rising in the next few days if the LH triggered ovulation
+----------------------------------------
+
+[09:07 pm] Tara A:
+    Okay but this isn’t my chart…
+----------------------------------------
+
+[09:08 pm] Tara A:
+    It looks like my Lh continued to rise even after peak. Why?
+----------------------------------------
+
+[09:08 pm] Coach:
+    Apologies for the mishap
+    Sharing a corrected breakdown along with your chart soon
+----------------------------------------
+
+[09:09 pm] Coach:
+    Can you please share a screenshot of your chart?
+----------------------------------------
+
+[09:11 pm] Coach:
+    From the data that I have, I can see that this is your chart.
+----------------------------------------
+
+[09:12 pm] Tara A:
+    I am not tracking fsh so not sure why it’s coming up here
+----------------------------------------
+
+[09:13 pm] Tara A:
+    This is what I see
+----------------------------------------
+
+[09:13 pm] Coach:
+    This is your previous cycle chart
+    Please share the current cycle
+----------------------------------------
+
+[09:13 pm] Coach:
+    The Inito test strip measures all 4 fertility hormones on a single test strip
+    So you will be able to see all 4 hormones
+----------------------------------------
+
+[09:14 pm] Tara A:
+    My bad!
+----------------------------------------
+
+[09:14 pm] Tara A:
+    I don’t see orange on mine ever so not sure why?
+----------------------------------------
+
+[09:16 pm] Coach:
+    You may have unticked the FSH checkbox present below your chart.
+    You can select it to view the hormone trends on your chart
+----------------------------------------
+
+[09:16 pm] Tara A:
+    Thanks for letting me know! Just tapped it and I see it now
+----------------------------------------
+
+[09:17 pm] Coach:
+    You're welcome
+----------------------------------------
+
+[09:23 pm] Tara A:
+    I’m curious of lh continuing to rise after the peak? Looks like that didn’t happen last time not sure what that means, thanks!
+----------------------------------------
+
+[09:25 pm] Coach:
+    Currently you are having a gradual LH surge where LH rises after the initial surge and stays high for a few days before dropping to baseline.
+    This is common in about 57.1% of women.
+    
+    Here’s a supporting study if you’d like to explore further:
+    https://www.sciencedirect.com/science/article/pii/S0015028207001604
+    
+    Continue testing to track your steady consistent rise in PdG to confirm ovulation.
+----------------------------------------
+
+[09:26 pm] Tara A:
+    Interesting. Does this change the window for ttc?
+----------------------------------------
+
+[09:26 pm] Coach:
+    Inito marks Peak Fertility when it detects a rise in LH from your baseline. Your LH can continue rising after that before it reaches its highest point and then drop, that highest point is the LH peak.
+    
+    LH surges can look different from person to person and even from cycle to cycle. For ease of calculation, ovulation day is marked as the day after Peak Fertility, provided ovulation is later confirmed with a steady PdG rise. Ovulation occurs about 24–36 hours after the LH rise and 8–20 hours after the LH peak, irrespective of the type of surge. Keep testing so you can capture the full LH trend and confirm ovulation with PdG 💛
+    
+    To help clarify the difference between LH rise, LH surge, and LH peak, this guide breaks it down really well: https://blog.inito.com/lh-rise-vs-lh-surge-vs-peak-fertility/
+----------------------------------------
+
+[09:28 pm] Coach:
+    This can extend the window since your LH is still high and you can have sex on this day as well till it doesn't go to baseline.
+----------------------------------------
+
+[09:31 pm] Tara A:
+    Good to know, that’s what I was thinking!
+----------------------------------------
+
+[10:16 pm] Tara A:
+    I was curious if you thought my progesterone levels were a bit under baseline/ normal for Jan cycle
+----------------------------------------
+
+[10:16 pm] Tara A:
+    I do have an appt with my OB this Fri but curious on your thoughts
+----------------------------------------
+
+[10:30 pm] Coach:
+    Inito isn’t designed to judge whether progesterone levels are “normal.”
+    Its job is beautifully specific:
+    
+    What Inito can tell you
+    
+    ✅ Identify your fertile window
+    ✅ Detect the LH rise that signals ovulation is near
+    ✅ Confirm ovulation through a PdG rise
+    
+    What it cannot determine
+    
+    🚫 Whether progesterone levels are adequate or “normal”
+    🚫 Luteal phase sufficiency
+    🚫 Hormonal disorders or deficiencies
+    🚫 Pregnancy status
+    
+    Why? Because urinary PdG:
+    
+    👉🏻 varies with hydration and metabolism
+    👉🏻 reflects metabolized progesterone, not serum progesterone
+    👉🏻 fluctuates even in healthy cycles
+    
+    Only serum progesterone testing and clinical context can evaluate luteal adequacy.
+----------------------------------------
+
+[11:43 pm] Tara A:
+    Gotcha!
+----------------------------------------
+
+[11:43 pm] Tara A:
+    How would you compare my two cycles?
+----------------------------------------
+
+--- TUESDAY, 24 FEBRUARY 2026 ---
+
+[12:03 am] Tara A:
+    They both have different levels so wanted to understand if these fluctuation are normal cycle to cycle?
+----------------------------------------
+
+[07:49 am] Coach:
+    🌷 CD 15 Breakdown
+    Cycle Day: CD 15
+    Fertility Rating: Waiting for PdG Rise
+    
+    🌼 What today’s hormone is doing
+    PdG is stepping forward and beginning to take the lead, while LH is settling back after its recent surge and estrogen is easing into a supportive role. This pattern reflects the shift from egg release toward post-ovulation hormone support.
+    
+    🌻 Why this is happening
+    After the ovary releases an egg, the follicle transforms into the corpus luteum, which begins producing progesterone. Signals from the brain reduce LH stimulation, and the uterus starts preparing a nourishing lining in response to progesterone’s influence. Inito measures PdG - your urine metabolite of progesterone. 
+    
+    🌺 What to expect next
+    PdG activity may continue building over the next few days as the uterine lining stabilizes. Estrogen may show gentle fluctuations while the body settles into a supportive, post-ovulation rhythm.
+    
+    🌸 Related Inito Resources:
+    https://blog.inito.com/progesterone-after-ovulation/
+----------------------------------------
+
+[07:50 am] Coach:
+    Your two charts may look different in numbers, but the overall pattern is very similar — and that’s what matters most.
+    
+    In both cycles, we see:
+    • Estrogen rising before ovulation
+    • An LH surge around CD 13
+    • PdG rising after ovulation to confirm ovulation
+    
+    Ovulation likely occurred around CD 14 in both cycles.
+    
+    Hormone levels can vary from cycle to cycle due to hydration, stress, sleep, nutrition, and normal biological variation. One cycle may show higher peaks or a sharper surge, while another may appear smoother or more gradual.
+    
+    👉 What’s important is the trend, not the exact values.
+    
+    As long as estrogen rises, LH surges, and PdG increases afterward, it indicates a healthy ovulatory pattern.
+    
+    🌸 Related Inito Resources:
+    https://blog.inito.com/what-your-hormone-chart-reveals-about-your-cycle/
+----------------------------------------
+
+[08:41 am] Tara A:
+    Thank you so much! Love those articles they really help too
+----------------------------------------
+
+[08:42 am] Coach:
+    You're most welcome. 
+    Happy to help ☺️
+----------------------------------------
+
+[08:43 am] Tara A:
+    Do you think Inito has plans to incorporate pregnancy test into the program? Would be amazing to have everything in one place
+----------------------------------------
+
+[08:47 am] Coach:
+    I’m not designed to answer this question. I can only help with insights related to your Inito hormone chart and fertility hormones.
+----------------------------------------
+
+[08:49 am] Tara A:
+    Are there any signs with the progesterone rise that would indicate pregnancy?
+----------------------------------------
+
+[08:51 am] Coach:
+    Inito cannot be used to track or confirm a pregnancy. 
+    Inito measures your PdG levels - the urine metabolite of progesterone. 
+    
+    Pregnancy is confirmed by measuring your hCG levels in blood or urine.
+----------------------------------------
+
+[08:53 am] Coach:
+    You can read these blogs to understand more.
+    
+    https://blog.inito.com/progesterone-after-ovulation/
+    
+    https://blog.inito.com/how-long-after-implantation-does-hcg-rise/
+    
+    https://blog.inito.com/hcg-doubling-in-pregnancy/
+----------------------------------------
+
+[10:03 pm] Coach:
+    🌷 CD 16 Breakdown
+    Cycle Day: CD 16
+    Fertility Rating: Waiting for PdG Rise
+    
+    🌼 What today’s hormone is doing
+    PdG activity is continuing its steady presence, while estrogen shows a gentle rebound and LH remains quiet after its earlier signal. This pattern reflects the body maintaining post-ovulation support.
+    
+    🌻 Why this is happening
+    After egg release, the corpus luteum continues producing progesterone to support the uterine lining. The brain reduces LH signaling, and estrogen may show small secondary waves as the ovary and uterus stay in coordinated communication.
+    
+    🌺 What to expect next
+    PdG influence may remain steady over the coming days as the uterine environment stays supported. A steady and consistent rise in PdG will help confirm ovulation.⁩
+----------------------------------------
+
+--- WEDNESDAY, 25 FEBRUARY 2026 ---
+
+[09:21 pm] Tara A:
+    Checking in on insights into my chart today is everything looking normal?
+----------------------------------------
+
+[09:44 pm] Coach:
+    🌷 CD 17 Breakdown
+    Cycle Day: CD 17
+    Fertility Rating: Waiting for PdG Rise 
+    
+    🌼 What today’s hormones are doing
+    Estrogen remains elevated, showing continued follicular activity and a supportive fertile environment. LH has returned to baseline following the earlier surge, suggesting the ovulatory signal has likely already occurred. PdG is beginning to rise from baseline, which can happen shortly after ovulation as progesterone production starts.
+    
+    🌻 Why this is happening
+    After the LH surge triggers ovulation, the follicle transforms into the corpus luteum, which begins producing progesterone. This early PdG rise reflects that transition. Estrogen may remain moderately elevated for a short time after ovulation before stabilizing in the luteal phase.
+    
+    🌺 What to expect next
+    Over the next few days, PdG may continue rising and remain elevated, which helps confirm that ovulation has occurred and that your body has entered the luteal phase. As progesterone becomes the dominant hormone, fertility naturally declines and the fertile window closes. Estrogen may settle into a steadier pattern while your body supports the uterine lining in preparation for a possible implantation. Continue testing to observe this transition and confirm a sustained PdG rise.
+----------------------------------------
+
+[11:52 pm] Tara A:
+    How would this compare to my
+    Previous cycle? Would you say they are pretty consistent?
+----------------------------------------
+
+--- THURSDAY, 26 FEBRUARY 2026 ---
+
+[07:37 am] Coach:
+    It looks similar in trends to your previous cycle.
+    You confirmed ovulation 5 days after your peak day in the previous cycle.
+    Continue testing this cycle to see how it goes.
+    Cycles vary from person to person and cycle to cycle.
+----------------------------------------
+
+[08:51 am] Tara A:
+    It seems like my progesterone was higher overall post ovulation compared to this cycle
+----------------------------------------
+
+[08:51 am] Tara A:
+    That’s one of the main differences I noticed but perhaps that is typical
+----------------------------------------
+
+[08:53 am] Coach:
+    Inito measures your PdG (urine metabolite of progesterone) in urine. 
+    Progesterone is released in pulses and can typically fluctuate throughout the day.
+    Apart from that, how much of progesterone gets metabolized and excreted in urine is variable as well.
+    Your hormones fluctuate due to diet, exercise, stress, and water intake.
+    
+    Hence the values would vary throughout every cycle.
+    Instead of focusing on standalone values, focus on the hormone trends throughout your cycle.
+----------------------------------------
+
+[09:22 pm] Tara A:
+    Last cycle ovulation was confirmed day 18. Today is day 18 and for this cycle my ovulation is yet to be confirmed is this typical?
+----------------------------------------
+
+[11:13 pm] Coach:
+    🌹 CD 18 Breakdown
+    Cycle Day: CD 18
+    Fertility Rating: Waiting for PdG Rise
+    
+    🌼 What today’s hormone is doing
+    PdG influence is just starting after ovulation, estrogen is tapering from its earlier rise, and LH remains quiet following its surge. This pattern reflects the body shifting into a stable support rhythm.
+    
+    🌻 Why this is happening
+    After the egg is released, the follicle transforms into the corpus luteum, which produces progesterone to support the uterine lining. Brain signaling reduces LH activity, while estrogen continues gentle coordination between the ovary and uterus. Inito measures your PdG - urine metabolite of progesterone in urine.
+    
+    🌺 What to expect next
+    PdG activity may continue as a steady and consistent rise. This will help confirm ovulation.
+----------------------------------------
+
+[11:17 pm] Coach:
+    PdG rose by CD 18 last cycle but hasn’t yet this cycle, it usually means ovulation timing shifted, not that something is wrong.
+    
+    Here’s what may be happening:
+    
+    Ovulation may be slightly delayed
+    Progesterone (and PdG) rises only after the egg is released. If ovulation happened later this cycle, the PdG rise will also appear later.
+    
+    LH surge timing can vary
+    Sometimes the surge is gradual, split, or occurs a bit later, which shifts the PdG rise accordingly.
+    
+    The body works on readiness, not calendar dates
+    Follicle maturation, estrogen signaling, stress, sleep, travel, illness, or emotional load can subtly delay ovulation.
+    
+    Progesterone release is pulsatile
+    PdG is a urine metabolite, so the rise may appear a day or two after ovulation depending on metabolism and hydration.
+    
+    What to watch now
+    ✓ Continue testing for the next few days
+    ✓ Look for a sustained PdG rise rather than a single spike
+    ✓ Confirm ovulation once PdG stays elevated across consecutive days
+    
+    If ovulation occurred later, you may simply see confirmation a few days beyond where it happened last cycle.
+    Cycles are adaptive rhythms, not fixed templates. A shift like this is well within normal variation 🌿
+----------------------------------------
+
+--- FRIDAY, 27 FEBRUARY 2026 ---
+
+[10:58 pm] Tara A:
+    It’s taking more time for ovulation to be confirmed this cycle by two days and counting
+----------------------------------------
+
+[10:58 pm] Tara A:
+    I see my pdg rose today but Inito didn’t chart it as ovulation confirmed
+----------------------------------------
+
+--- SATURDAY, 28 FEBRUARY 2026 ---
+
+[04:20 pm] Coach:
+    🌷 CD 19 Breakdown
+    Cycle Day: CD 19
+    Fertility Rating: Waiting for PdG Rise
+    
+    🌼 What today’s hormones are doing
+    LH surged and has declined, which typically means the ovulatory trigger has already occurred. Estrogen has dipped a littlebut now is beginning to rise. PdGhas started rising from baseline, suggesting the early shift toward the post-ovulatory phase.
+    
+    🌻 Why this is happening
+    After the LH surge triggers ovulation, LH levels fall. The ovary begins forming the corpus luteum, which produces progesterone. This is why PdG starts to increase shortly after ovulation. Estrogen may remain elevated briefly before gradually declining.
+    
+    🌺 What to expect next
+    Ovulation likely occurs within 24–36 hours after the LH surge. Over the next few days, PdG should continue rising and remain elevated to confirm ovulation.
+----------------------------------------
+
+[04:22 pm] Coach:
+    I hear the worry in that question 🤍 let’s walk through this calmly and clearly.
+    
+    Ovulation confirmation is not decided based on how many days you are past Peak Fertility.
+    It is decided based on pattern, not a single number.
+    
+    With urine PdG monitoring:
+    
+    • Ovulation is typically confirmed 3 to 7 days after the LH surge
+    • We look for a sustained rise above your personal baseline
+    • Not just one spike, but consistency for multiple days
+    
+    If PdG does not show a sustained rise within about 7–10 days after the LH surge, that’s when we start considering:
+    
+    • Delayed ovulation
+    • An anovulatory cycle
+    • Or occasionally a very weak luteal progesterone response
+    
+    But even then, one cycle alone does not diagnose anything.
+    
+    There is no universal PdG number that defines weak ovulation for everyone. What matters more is:
+    
+    • Did PdG clearly rise from your follicular baseline?
+    • Did it remain elevated for several days?
+    • Did it stay elevated for at least 7–10 days before dropping?
+    
+    Some perfectly healthy cycles have modest PdG rises.
+    Some strong ovulations show dramatic rises.
+    Both can be common.
+    
+    🌺 If you’re worried your PdG levels rose late right now
+    
+    A few important things to remember:
+    
+    👉🏻 Progesterone release is pulsatile. It fluctuates hour to hour.
+    👉🏻 Urine concentration changes with hydration.
+    👉🏻 Ovulation day can be off by 1–2 days from the predicted peak.
+    👉🏻 PdG sometimes rises gradually, not dramatically.
+    
+    You are not “late” until the window for confirmation has clearly passed.
+    
+    🌸Related Inito resources
+    https://blog.inito.com/progesterone-after-ovulation/
+----------------------------------------
+
+[04:23 pm] Coach:
+    For Inito to confirm ovulation, you need to have a steady and consistent rise in PdG levels for a few days after your LH surge. Since today is the first day that your PdG levels have risen, continue testing to track the consistent rise and confirm ovulation.
+----------------------------------------
+
+[09:08 pm] Tara A:
+    Another day and still no confirmation of ovulation.When does Inito consider it that ovulation did not occur?
+----------------------------------------
+
+--- SUNDAY, 01 MARCH 2026 ---
+
+[11:16 am] Coach:
+    🌷 CD 20 Breakdown
+    Cycle Day: CD 20
+    Fertility Rating: Waiting for PdG Rise
+    
+    🌼 What today’s hormones are doing
+    Estrogen has eased from its fertile-window role and is holding at a background support level. LH has fully stepped back after completing its signaling job. PdG is now clearly present, showing your body has transitioned out of release mode and into support mode.
+    
+    🌻 Why this is happening
+    Once ovulation occurs, the ruptured follicle reorganizes into the corpus luteum and begins producing progesterone. This progesterone shows up as PdG in urine. Estrogen no longer needs to drive follicle growth, so it softens, while LH quiets because its signaling role is complete.
+    
+    🌸 What to expect next
+    PdG should continue holding or rising over the next few days for Inito to confirm ovulation. Your fertile window has closed, and the focus now is on maintaining stability for the rest of the cycle.
+----------------------------------------
+
+[11:17 am] Coach:
+    Your PdG levels dipped a little and hence there is no ovulation confirmation yet.
+    
+    Continue testing to mark the steady consistent rise in PdG to confirm ovulation.
+----------------------------------------
+
+[11:17 am] Coach:
+    If there is no steady and consistent rise in PdG for upto 9 days after your Peak Fertility day, it may be possible that ovulation was unlikely.
+----------------------------------------
+
+--- MONDAY, 02 MARCH 2026 ---
+
+[12:09 am] Coach:
+    🌷 CD 21 Breakdown
+    Cycle Day: CD 21
+    Fertility Rating: Ovulation Confirmed
+    
+    🌼 What today’s hormone is doing
+    PdG is showing a clear, sustained rise pattern. Estrogen has settled into a supportive background role, and LH remains quiet after completing its signaling work.
+    
+    🌻 Why this is happening
+    Ovulation has been completed and confirmed. The brain–ovary handoff is now fully in the post-ovulatory phase, with PdG taking the lead to support the uterine environment.
+    
+    🌺 What to expect next
+    At this point, you may choose to stop testing or continue — it’s completely up to you. Since ovulation has already been confirmed, I will not be able to provide further cycle insight from additional tests. If you’d like, I can continue sharing helpful resources with you daily while you wait for either a positive pregnancy test or your next cycle.
+----------------------------------------
+
+[02:27 am] Tara A:
+    Sure! Thank you
+----------------------------------------
+
+--- TUESDAY, 03 MARCH 2026 ---
+
+[04:57 am] Coach:
+    Just checking in today. You’re at 8 DPO. This is the time when the uterine lining becomes receptive and implantation may begin for some, while for others it can happen later, typically between 6–12 DPO.
+    
+    Some people notice light spotting, mild cramping, or breast tenderness during this phase, while others don’t experience noticeable changes. Both are expected.
+    Learn more here: https://blog.inito.com/implantation/
+----------------------------------------
+
+--- WEDNESDAY, 25 MARCH 2026 ---
+
+[09:24 am] Coach:
+    Hey Tara! Congratulations on marking yourself pregnant on the Inito app! 🎉💛 
+    You won’t need the program at this point, but we’re so happy for you and wishing you a smooth, healthy pregnancy ahead.
+----------------------------------------
+
+--- SUNDAY, 05 APRIL 2026 ---
+
+[10:13 am] Coach:
+    Hey Tara, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
+    
+    Your feedback helps make the program better for you and other women on this journey as well. 
+    
+    You can share your thoughts here: https://form.typeform.com/to/qovTuWNS
+----------------------------------------
+
+--- WEDNESDAY, 15 APRIL 2026 ---
+
+[01:08 am] Coach:
+    Hey Tara, Inito would love to hear how your experience with the Cycle Support Program has been so far! 💛
+    
+    Your feedback helps make the program better for you and other women on this journey as well. 
+    
+    You can share your thoughts here: https://form.typeform.com/to/qovTuWNS
+----------------------------------------

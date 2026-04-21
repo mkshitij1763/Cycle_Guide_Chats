@@ -54,6 +54,7 @@ USER_ADMIN_LINKS = {
         "Melissa Morales": "https://admin.inito.com/admin/users/300198",
         "Andrea": "https://admin.inito.com/admin/users/320414",
         "Cali": "https://admin.inito.com/admin/users/318358",
+        "Cherie": "https://admin.inito.com/admin/users/314610"
     },
     "RAI": {
     "Maya D": "https://admin.inito.com/admin/users/303062",
@@ -102,7 +103,8 @@ USER_ADMIN_LINKS = {
     "Mallory M": "https://admin.inito.com/admin/users/320554",
     "Eliana G": "https://admin.inito.com/admin/users/316843",
     "Sarah D": "https://admin.inito.com/admin/users/316613",
-    "Allison B": "https://admin.inito.com/admin/users/320557"
+    "Allison B": "https://admin.inito.com/admin/users/320557",
+    "Jillian D": "https://admin.inito.com/admin/users/306531"
 }
 }
 
