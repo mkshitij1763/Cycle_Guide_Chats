@@ -104,7 +104,8 @@ USER_ADMIN_LINKS = {
     "Eliana G": "https://admin.inito.com/admin/users/316843",
     "Sarah D": "https://admin.inito.com/admin/users/316613",
     "Allison B": "https://admin.inito.com/admin/users/320557",
-    "Jillian D": "https://admin.inito.com/admin/users/306531"
+    "Jillian D": "https://admin.inito.com/admin/users/306531",
+    "Veronique C": "https://admin.inito.com/admin/users/302804"
 }
 }
 
